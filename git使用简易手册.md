@@ -1,3 +1,11 @@
+github
+5553960
+5553960xl
+https://github.com
+
+如何从git下载项目
+1.import-->Git-->projects from Git-->next-->clone url-->路径即为远程github中clone or download中路径
+
 # Git使用简易手册4eclipse
 
 ## 首次操作线路
